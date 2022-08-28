@@ -548,7 +548,7 @@
 }
 @media (min-width: 1200px) {
   .form-group__item {
-    min-width: 260px;
+    min-width: 250px;
   }
 }
 .gallery {
@@ -670,7 +670,7 @@
   content: "";
   width: 1200px;
   height: 57px;
-  background-image: url("../../img/intro-triangle.svg");
+  background-image: url("../img/intro-triangle.svg");
 }
 .logo-big--inner {
   min-height: 108px;
